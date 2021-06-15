@@ -1,0 +1,6 @@
+s=["robin", "anamika", "faisal", "valmiki", "waseem", "amara"]
+l=len(s)
+i=0
+while i<l:
+    print(s[i])
+    i=i+1 
